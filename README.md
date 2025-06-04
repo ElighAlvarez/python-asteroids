@@ -1,1 +1,1 @@
-# python-asteroids
+# My Asteroid game built in Python, guided by [BOOT.DEV](https://boot.dev)
